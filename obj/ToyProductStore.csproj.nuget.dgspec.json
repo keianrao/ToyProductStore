@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Snowyfox\\Documents\\Programming\\ToyProductStore\\ToyProductStore.csproj": {}
+    "c:\\Users\\Snowyfox\\Documents\\Programming\\ToyProductStore\\ToyProductStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Snowyfox\\Documents\\Programming\\ToyProductStore\\ToyProductStore.csproj": {
+    "c:\\Users\\Snowyfox\\Documents\\Programming\\ToyProductStore\\ToyProductStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Snowyfox\\Documents\\Programming\\ToyProductStore\\ToyProductStore.csproj",
+        "projectUniqueName": "c:\\Users\\Snowyfox\\Documents\\Programming\\ToyProductStore\\ToyProductStore.csproj",
         "projectName": "ToyProductStore",
-        "projectPath": "C:\\Users\\Snowyfox\\Documents\\Programming\\ToyProductStore\\ToyProductStore.csproj",
+        "projectPath": "c:\\Users\\Snowyfox\\Documents\\Programming\\ToyProductStore\\ToyProductStore.csproj",
         "packagesPath": "C:\\Users\\Snowyfox\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Snowyfox\\Documents\\Programming\\ToyProductStore\\obj\\",
+        "outputPath": "c:\\Users\\Snowyfox\\Documents\\Programming\\ToyProductStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Snowyfox\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -42,6 +42,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
