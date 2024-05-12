@@ -1,0 +1,14 @@
+C:\Users\Snowyfox\Documents\Programming\ToyProductStore\bin\Debug\net8.0\ToyProductStore.exe
+C:\Users\Snowyfox\Documents\Programming\ToyProductStore\bin\Debug\net8.0\ToyProductStore.deps.json
+C:\Users\Snowyfox\Documents\Programming\ToyProductStore\bin\Debug\net8.0\ToyProductStore.runtimeconfig.json
+C:\Users\Snowyfox\Documents\Programming\ToyProductStore\bin\Debug\net8.0\ToyProductStore.dll
+C:\Users\Snowyfox\Documents\Programming\ToyProductStore\bin\Debug\net8.0\ToyProductStore.pdb
+C:\Users\Snowyfox\Documents\Programming\ToyProductStore\obj\Debug\net8.0\ToyProductStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Snowyfox\Documents\Programming\ToyProductStore\obj\Debug\net8.0\ToyProductStore.AssemblyInfoInputs.cache
+C:\Users\Snowyfox\Documents\Programming\ToyProductStore\obj\Debug\net8.0\ToyProductStore.AssemblyInfo.cs
+C:\Users\Snowyfox\Documents\Programming\ToyProductStore\obj\Debug\net8.0\ToyProductStore.csproj.CoreCompileInputs.cache
+C:\Users\Snowyfox\Documents\Programming\ToyProductStore\obj\Debug\net8.0\ToyProductStore.dll
+C:\Users\Snowyfox\Documents\Programming\ToyProductStore\obj\Debug\net8.0\refint\ToyProductStore.dll
+C:\Users\Snowyfox\Documents\Programming\ToyProductStore\obj\Debug\net8.0\ToyProductStore.pdb
+C:\Users\Snowyfox\Documents\Programming\ToyProductStore\obj\Debug\net8.0\ToyProductStore.genruntimeconfig.cache
+C:\Users\Snowyfox\Documents\Programming\ToyProductStore\obj\Debug\net8.0\ref\ToyProductStore.dll
