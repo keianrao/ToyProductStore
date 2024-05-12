@@ -20,3 +20,15 @@ static MySqlConnection StartupConnection()
 }
 
 MySqlConnection conn = StartupConnection();
+
+MySqlCommand query = new MySqlCommand();
+query.CommandText = "SELECT * FROM Stock;";
+query.Connection = conn;
+MySqlDataReader results = query.ExecuteReader();
+while (results.Read())
+{
+    Console.WriteLine(results[1] + " (#" + results[0] + ")");
+    Console.WriteLine(results[2]);
+    Console.WriteLine("RM" + results[3] + " ea ");
+    Console.WriteLine();
+}
